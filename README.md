@@ -4,8 +4,8 @@
 
 #### 一、基础
 
-[1、null和undefined的区别](https://github.com/yixirumeng/Front-End-Knowledge/The-difference-between-null-and-undefined.md)
+[1、null和undefined的区别](https://github.com/yixirumeng/Front-End-Knowledge/blob/master/basic/The-difference-between-null-and-undefined.md)
 
-[2、类数组对象](https://github.com/yixirumeng/Front-End-Knowledge/Similar-Array-Object.md)
+[2、类数组对象](https://github.com/yixirumeng/Front-End-Knowledge/blob/master/basic/Similar-Array-Object.md)
 
 #### 二、常用函数实现
